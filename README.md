@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm aya khaled</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<h1 align="center">Hi 👋, I'm Aya khaled</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+front+end+developer+from+Egypt;A+software+engineer!;A+competitve+programmer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayakhaled0197&label=Profile%20views&color=0e75b6&style=flat" alt="ayakhaled0197" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayakhaled0197" alt="ayakhaled0197" /></a> </p>
