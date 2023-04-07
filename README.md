@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayakhal17119591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayakhal17119691" height="30" width="40" /></a>
+<a href="https://twitter.com/Ayakhal17119591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayakhal17119691" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aya-khaled00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya-khaled00001" height="30" width="40" /></a>
 <a href="https://fb.com/ayakhaled0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayakhaled0001" height="30" width="40" /></a>
 <a href="https://instagram.com/_priv_ayaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_priv_ayaaa" height="30" width="40" /></a>
